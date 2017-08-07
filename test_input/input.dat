@@ -34,9 +34,9 @@ set {
   d_convergence 1e-13
   e_convergence 1e-13
   diis true
-  maxiter 500
-  dertype first
-  myhand left 
-  my_omega 0.01
+  #maxiter 500
+  #dertype first
+  #myhand left 
+  #my_omega 0.01
 }
 energy('ccreorg')
